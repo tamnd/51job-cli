@@ -1,0 +1,10 @@
+title       = "job51"
+baseURL     = "https://51job-cli.tamnd.com/"
+description = "51job recruitment platform CLI"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/51job-cli"
